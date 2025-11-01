@@ -5,8 +5,8 @@
 
 * 👂 My name is Antoine
 * 🔭 I’m currently working on a bot to plan my whole week automatically.
-* 🌱 I’m currently learning LLMs and image recognition/
-* 🤝 I’m looking to collaborate on projects
+* 🌱 I’m currently learning image recognition and data pipelines.
+* 🤝 I’m looking to collaborate on data projects.
 * 📫 How to reach me: antoine.petit@epita.fr
 * ❤️ I love running and eating (both may be linked)
 * ⚡ Fun fact: I ran my first 20km after breaking my ankle.
